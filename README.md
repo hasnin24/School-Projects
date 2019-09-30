@@ -1,31 +1,31 @@
 # School-Projects
 
-For all project you need Jupyter Notbook.
+For all project you need Jupyter Notbook. ALl projects have file named full_python_code for complete walkthrough
 
 You can use Anaconda to get Jupyter Notbook.
 
-## Installation for MacOs
+## Installation for MacOS
 
-This link will guid you how to install Anaconda on MacOS
+This link will guide you how to install Anaconda on MacOS
 
 https://docs.anaconda.com/anaconda/install/mac-os/
 
 ## Installation for Windows
 
-This link will guid how to install Anaconda on Windows
+This link will guide how to install Anaconda on Windows
 
 https://docs.anaconda.com/anaconda/install/windows/
 
 ## Installation for Linux
 
-This link will guid you how to install Anaconda on Linux
+This link will guide you how to install Anaconda on Linux
 
 https://docs.anaconda.com/anaconda/install/linux/
 
 
-# Also You need to use Homebrew to visualize the Tree 
+# use Homebrew to visualize the Tree 
 
-Homebrew for MacOs and Linux copy and paste the command below into the terminal 
+Homebrew for MacOS and Linux copy and paste the command below into the terminal 
 
     /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
 
