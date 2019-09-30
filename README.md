@@ -6,7 +6,7 @@ You can use Anaconda to get Jupyter Notbook.
 
 ## Installation for MacOs
 
-This link will guid you to instsall Anaconda on MacOs
+This link will guid you how to instsall Anaconda on MacOS
 
 https://docs.anaconda.com/anaconda/install/mac-os/
 
@@ -35,6 +35,5 @@ Using pip
 
 you need to install these packages because they don't come with Ancaonda by default 
 
-$ pip install IPython
-
-$ pip install pydotplus
+  $ pip install IPython
+  $ pip install pydotplus
