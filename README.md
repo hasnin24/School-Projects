@@ -1,4 +1,4 @@
-School-Projects
+#School-Projects
 
 For all project you need Jupyter Notbook.
 You can use Anaconda to get Jupyter Notbook.
