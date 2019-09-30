@@ -1,6 +1,6 @@
 # School-Projects
 
-For all projects you need Jupyter Notbook. ALl projects have file named full_python_code for complete walkthrough
+For all projects you need Jupyter Notbook. All projects have file named full_python_code for complete walkthrough
 
 You can use Anaconda to get Jupyter Notbook.
 
