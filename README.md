@@ -27,7 +27,7 @@ https://docs.anaconda.com/anaconda/install/linux/
 
 Homebrew for MacOs and Linux copy and paste the command below into the terminal 
 
-/usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
+        /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
 
 or use this link: https://brew.sh
 
