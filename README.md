@@ -33,7 +33,7 @@ or use this link: https://brew.sh
 
 Using pip
 
-you need to install these packages because they don't come with Ancaonda by default 
+you need to install these packages because they don't come with Anaconda by default: 
 
-  $ pip install IPython
-  $ pip install pydotplus
+    $ pip install IPython
+    $ pip install pydotplus
