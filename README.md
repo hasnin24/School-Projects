@@ -31,7 +31,7 @@ Homebrew for MacOs and Linux copy and paste the command below into the terminal
 
 or use this link: https://brew.sh
 
-Using pip
+## Using pip
 
 you need to install these packages because they don't come with Anaconda by default: 
 
