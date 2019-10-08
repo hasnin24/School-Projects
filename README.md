@@ -1,3 +1,5 @@
+# Note
+If you could not load jupyter files please use nbviewer https://nbviewer.jupyter.org
 # School-Projects
 
 For all projects you need Jupyter Notbook. All projects have file named full_python_code for complete walkthrough
