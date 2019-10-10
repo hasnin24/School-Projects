@@ -1,3 +1,7 @@
+# Note 
+If the python code did not work please use this link:
+https://nbviewer.jupyter.org/github/hasnin24/School-Projects/tree/master/Credit%20Card%20Approval/
+
 # Info about the dataset
 
 1. Title: Credit Approval
