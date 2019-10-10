@@ -1,3 +1,7 @@
+# Note 
+If the python code did not work please use this link:
+https://nbviewer.jupyter.org/github/hasnin24/School-Projects/tree/master/California_Housing_Price%20/
+
 # California Housing
 
 ## Source
